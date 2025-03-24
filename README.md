@@ -1,12 +1,3 @@
----
-title: 关于我
-type: about
-comments: true
-password: "wanyuanshenwande"
-message: "这一部分还未写好，写好后会公开。"
-aside: false
-date: 2024-08-27 10:05:38
----
 
 
 <style>
